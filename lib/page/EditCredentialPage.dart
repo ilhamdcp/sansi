@@ -12,7 +12,7 @@ class EditCredentialPage extends StatelessWidget {
             child: ListView(
               padding: const EdgeInsets.all(16.0)
               children: [
-                  
+
               ],
             )
         ),
